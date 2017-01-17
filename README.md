@@ -19,3 +19,6 @@ ctrl + u				uppercase
 ctrl + shift + u		lowercase
 alt + r					open recent files list
 ```
+
+Preview
+![preview](https://stephenyin.github.io/images/blog/si.png)
