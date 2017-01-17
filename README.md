@@ -1,6 +1,6 @@
 # sourceinsight_configuration
-My sourceinsight dark theme configuration
-# sublime like key assignment
+My source-insight dark theme configuration with sublime like key assignment.
+## Key assignment
 ```
 ctrl + enter			inster newline blow
 ctrl + x				cut current line
@@ -20,5 +20,5 @@ ctrl + shift + u		lowercase
 alt + r					open recent files list
 ```
 
-Preview
+## Preview
 ![preview](https://stephenyin.github.io/images/blog/si.png)
