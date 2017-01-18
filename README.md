@@ -5,14 +5,14 @@ My source-insight dark theme configuration with sublime like key assignment.
 ctrl + enter			inster newline blow
 ctrl + x				cut current line
 ctrl + shift + up 		drag line up
-ctrl + shift + down		drag line downe
+ctrl + shift + down		drag line down
 ctrl + l				select & copy current line
 ctrl + p				paste as line
 ctrl + j				join line
 
 ctrl + up				scroll up
 ctrl + down				scroll down
-ctrl + ]				jump to match delimter
+ctrl + ]				jump to match delimiter
 
 ctrl + /				comment line
 ctrl + shift + /		uncomment line
@@ -25,6 +25,8 @@ ctrl + shift + w 		close all saved files
 
 alt + r					open recent files list
 alt + L-click			column select
+
+tab 					insert code snippet after keyword "if" "else" "for" "while" "do" "switch" "case" "default" "main"
 ```
 ## Usage:
 *  	Open base project in sourceinsight
