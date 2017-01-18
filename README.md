@@ -5,19 +5,26 @@ My source-insight dark theme configuration with sublime like key assignment.
 ctrl + enter			inster newline blow
 ctrl + x				cut current line
 ctrl + shift + up 		drag line up
-ctrl + shift + down		drag line down
-ctrl + l				select current line
-ctrl + k				select & copy current line
+ctrl + shift + down		drag line downe
+ctrl + l				select & copy current line
 ctrl + p				paste as line
+ctrl + j				join line
+
 ctrl + up				scroll up
 ctrl + down				scroll down
-ctrl + j				join line
-alt + L-click			column select
-ctrl + alt + f			format
-ctrl + shift +s 		save all
-ctrl + u				uppercase
-ctrl + shift + u		lowercase
+ctrl + ]				jump to match delimter
+
+ctrl + /				comment line
+ctrl + shift + /		uncomment line
+ctrl + #				#if 0 lines #endif
+
+ctrl + shift + s 		save all
+ctrl + u				uppercase selected
+ctrl + shift + u		lowercase selected
+ctrl + shift + w 		close all saved files
+
 alt + r					open recent files list
+alt + L-click			column select
 ```
 
 ## Preview
