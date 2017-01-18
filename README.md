@@ -26,6 +26,14 @@ ctrl + shift + w 		close all saved files
 alt + r					open recent files list
 alt + L-click			column select
 ```
+## Usage:
+*  	1. Open base project in sourceinsight
+ 	
+* 	2. Replace utils.em content with repo utils.em
 
+*	3. Install Inconsolata.otf to system
+
+*	4. Restore GLOBAL.CF3 to sourceinsight
+ 
 ## Preview
 ![preview](https://stephenyin.github.io/images/blog/si.png)
